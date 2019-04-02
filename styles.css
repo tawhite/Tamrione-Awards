@@ -1,0 +1,31 @@
+html{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/16/49/555825471000a1f.jpg");
+}
+
+.aston {
+    height: 450px;
+}
+.bugatti {
+    height: 450px;
+    font-family: 'Satisfy', cursive;
+}
+.bugatti2{
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    color: blue;
+    }
+.bently{
+    font-family: 'Mrs Sheppards', cursive;
+    font-size: 30px;
+    color: red;
+}
+.lamborghini{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+    color: yellow;
+    }
+    .aston2{
+        font-family: 'Great Vibes', cursive;
+        font-size: 30px;
+        color: orange;
+    }
